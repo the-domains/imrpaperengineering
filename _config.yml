@@ -1,0 +1,28 @@
+name: IMRpaperengineering
+favicon: null
+layout_spectrum: 0.5359301583375782
+typography_spectrum: 0.9070193921215832
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9968709277454764
+  lightness: 0.8151821703650057
+  saturation: 0.8846270241774619
+  rhythmicContrast: 0.7613115417771041
+purpose: []
